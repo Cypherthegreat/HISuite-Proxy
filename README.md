@@ -2,7 +2,10 @@
 Modifying HiSuite and manipulating it's connection data to install Roms before they officially get released.
 
 ```diff
-- ALERT : Downgrading from Latest EMUI 11 disables your phone's Fast Charging, Fastboot, USB Connection and TestPoint.
+- ALERT : You have to set your pc's time back to 1st September 2023 for hisuite to work properly this will fix 99% of issues.
+           In Windows 10, go to Start  > Settings  > Time & language > Date & time.
+           In Windows 11, go to Start  > Settings  > Time & language > Date & time > turn off set the time automatically > change.
+- Downgrading from Latest EMUI 11 disables your phone's Fast Charging, Fastboot, USB Connection and TestPoint.
 - The only way to fix it is updating through OTA, Erecovery or Dload by memorycard to latest EMUI 11. 
 ```
 
